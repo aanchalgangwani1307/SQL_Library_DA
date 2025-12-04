@@ -92,68 +92,68 @@ Through a structured set of **20 real-world adhoc queries**, this project demons
 ![Q1](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs/Q1.png)
 
 #### 2. Find the total number of members registered in the system.  
-![Q2](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q2.png)
+![Q2](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q2.png)
 
 #### 3. Show all books issued by employee `E106`.  
-![Q3](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q3.png)
+![Q3](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q3.png)
 
 #### 4. Display the list of books returned in the month of May 2024.  
-![Q4](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q4.png)
+![Q4](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q4.png)
 
 #### 5. Count how many books each member has issued.  
-![Q5](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q5.png)
+![Q5](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q5.png)
 
 #### 6. Show the details of members who have never issued any book.  
-![Q6](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q6.png)
+![Q6](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q6.png)
 
 #### 7. Find the earliest and latest book issue date in the system.  
-![Q7](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q7.png)
+![Q7](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q7.png)
 
 #### 8. Get the names of employees who issued books to member `C109`.  
-![Q8](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q8.png)
+![Q8](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q8.png)
 
 #### 9. Display all books that have been returned along with their return dates.  
-![Q9](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q9.png)
+![Q9](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q9.png)
 
 #### 10. Get the top 5 most recently issued books.  
-![Q10](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q10.png)
+![Q10](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q10.png)
 
 ---
 
 ### 🟡 Intermediate-Level Adhoc Queries (11–15)
 
 #### 11. List the number of books issued by each employee.  
-![Q11](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q11.png)
+![Q11](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q11.png)
 
 #### 12. Show members who have returned all the books they issued.  
-![Q12](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q12.png)
+![Q12](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q12.png)
 
 #### 13. For each book, show how many times it has been issued.  
-![Q13](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q13.png)
+![Q13](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q13.png)
 
 #### 14. Find the most active member (who issued the most books).  
-![Q14](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q14.png)
+![Q14](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q14.png)
 
 #### 15. Display books that have been issued multiple times to the same member.  
-![Q15](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q15.png)
+![Q15](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q15.png)
 
 ---
 
 ### 🔴 Advanced-Level Adhoc Queries (16–20)
 
 #### 16. Label books as `Returned`, `Not Returned`.  
-![Q16](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q16.png)
+![Q16](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q16.png)
 
 #### 17. Use `DENSE_RANK()` to rank members based on number of books issued.  
-![Q17](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q17.png)
+![Q17](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q17.png)
 
 #### 18. Use `PARTITION BY` to show issue count per member with a running total.  
-![Q18](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q18.png)
+![Q18](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q18.png)
 
 #### 19. List members who returned books within 7 days of issue.  
-![Q19](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q19.png)
+![Q19](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q19.png)
 
 #### 20. Calculate the average time between issue and return for each member.  
-![Q20](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Code%20Outputs/Q20.png)
+![Q20](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Code%20Outputs//Q20.png)
 
 ---
