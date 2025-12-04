@@ -15,9 +15,9 @@ Through a structured set of **20 real-world adhoc queries**, this project demons
 
 ## 📦 Project Schema
 
-![Project Schema](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/Schema.png)
+![Project Schema](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/Schema.png)
 
-## 🔗 [Project Link](https://github.com/aanchalgangwani1307/SQL_Library_Management_Project/blob/main/PROJECT_CODE.sql)
+## 🔗 [Project Link](https://github.com/aanchalgangwani1307/SQL_Library_DA/blob/main/PROJECT_CODE.sql)
 
 ---
 
